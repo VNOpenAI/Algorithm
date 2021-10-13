@@ -1,0 +1,15 @@
+1 , SORT:
+
+	- Insertion sort 
+
+    - Selection sort  
+
+        1 0 2 4 –1 
+
+    - Bubble sort 	 
+    - Merge sort 
+    - Quicksort  sort(a[first->last]):       
+        Tìm khóa ( thường là giá trị phần tử ở giữa )
+        tìm vị trí từ đầu đến cuối (i->) và từ cuối về đầu(j->) nếu a[i]>k và a[j]<k thì swap(a[i],a[j]),nếu i>j thì check i,last và first với j
+
+        
